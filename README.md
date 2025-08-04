@@ -2,9 +2,10 @@
 
 <!-- ![Banner do Projeto (Opcional)](https://via.placeholder.com/1000x250.png?text=WinRepair4) -->
 
+
 ## 🛠️ Sobre o Projeto
 
-O **WinRepair4** é uma coleção de scripts projetados para automatizar tarefas comuns de manutenção e diagnóstico em sistemas operacionais Windows 10 e Windows 11. O objetivo é fornecer ferramentas simples para ajudar na otimização, limpeza e reparo do sistema.
+O **WinRepair4** é um script projetado para automatizar tarefas comuns de manutenção e diagnóstico em sistemas operacionais Windows 10 e Windows 11. O objetivo é fornecer ferramentas simples para ajudar na otimização, limpeza e reparo do sistema.
 
 ## ⚠️ Aviso de Segurança
 
@@ -30,4 +31,4 @@ O **WinRepair4** é uma coleção de scripts projetados para automatizar tarefas
 
 ---
 
-Feito com ⚙️ por [Seu Nome ou Usuário do GitHub]
+Feito com ⚙️ por Gabriel-S-Inacio
